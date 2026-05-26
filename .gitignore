@@ -1,0 +1,15 @@
+@Resources/__pycache__/
+@Resources/*.log
+@Resources/dayoffset.txt
+@Resources/kbo_parser_v*.py
+@Resources/kbo_parser.before_*_backup.py
+@Resources/*.codex_backup
+*.backup*
+*.codex_backup
+*.layout_backup
+*.width_backup
+*.before_*_backup.ini
+*.poster_with_boxes_backup.ini
+KBOScore_v1.3_backup.ini
+KBOScore_v1.4.ini
+KBOScore_v1.5.ini
