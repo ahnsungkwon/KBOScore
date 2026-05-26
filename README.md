@@ -2,7 +2,7 @@
 
 KBO 공식 웹사이트 데이터를 이용해 KBO 경기 일정, 점수, 일자별 팀 순위를 포스터 스타일로 표시하는 Rainmeter 스킨입니다.
 
-![KBOScore screenshot](docs/screenshot.png)
+![KBOScore screenshot](screenshot.png)
 
 ## Files
 
